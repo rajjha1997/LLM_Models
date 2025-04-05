@@ -1,0 +1,29 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+openai = "*"
+streamlit = "*"
+langchain = "*"
+langsmith = "*"
+langchain-openai = "*"
+langchain-chroma = "*"
+langchain-community = "*"
+python-dotenv = "*"
+requests = "*"
+pypdf2 = "*"
+tiktoken = "*"
+beautifulsoup4 = "*"
+faiss-cpu = "*"
+jq = "*"
+langchain-google-genai = "*"
+google-generativeai = "*"
+ipykernel = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
