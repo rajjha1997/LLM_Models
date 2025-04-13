@@ -1,0 +1,8 @@
+streamlit
+langchain
+python-dotenv
+pypdf
+docx2txt
+requests
+openai
+google-generativeai
