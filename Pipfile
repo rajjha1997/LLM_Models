@@ -22,6 +22,11 @@ jq = "*"
 langchain-google-genai = "*"
 google-generativeai = "*"
 ipykernel = "*"
+nbconvert = "*"
+pypdf = "*"
+markdown = "*"
+fpdf = "*"
+docx2txt = "*"
 
 [dev-packages]
 
