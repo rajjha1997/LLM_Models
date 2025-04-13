@@ -34,21 +34,27 @@ A Streamlit application that leverages LLMs (e.g., Gemini Pro via LangChain) to 
 ## 🛠 Setup Instructions
 
 ### 1. Clone the repository
+```
 git clone https://github.com/your-username/cv-analyzer.git
 cd cv-analyzer
+```
 
 
 ### 2. Create virtual environment & install dependencies
+```
 python -m venv venv
 source venv/bin/activate  # or venv\\Scripts\\activate on Windows
 pip install -r requirements.txt
+```
 
 ### 3. Set up .env for API keys
 Create a .env file with:
 GOOGLE_API_KEY=your_google_generative_ai_key
 
 ### 4. Run the Streamlit app
+```
 streamlit run cv_analyser.py
+```
 
 ## Sample Use Case
 1. Upload your latest resume as a .docx or .pdf.
