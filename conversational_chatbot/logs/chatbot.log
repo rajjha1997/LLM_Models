@@ -1,0 +1,14 @@
+2025-04-17 13:10:38,826 - INFO - Logging is configured. Logs will be rotated daily.
+2025-04-17 13:10:38,826 - INFO - Log file path: logs/chatbot.log
+2025-04-17 13:10:38,966 - INFO - Loading faiss.
+2025-04-17 13:10:38,973 - INFO - Successfully loaded faiss.
+2025-04-17 13:10:38,974 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-17 13:10:38,988 - INFO - App started.
+2025-04-17 13:10:48,430 - INFO - App started.
+2025-04-17 13:10:48,439 - INFO - Processing query...
+2025-04-17 13:10:49,206 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2025-04-17 13:10:51,742 - INFO - Query processed successfully.
+2025-04-17 13:11:05,359 - INFO - App started.
+2025-04-17 13:11:05,365 - INFO - Processing query...
+2025-04-17 13:11:06,157 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2025-04-17 13:11:07,891 - INFO - Query processed successfully.
